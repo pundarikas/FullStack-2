@@ -1,0 +1,31 @@
+.title{
+	text-align: center;
+	text-shadow: 3px 1px #CCC;
+
+}
+#header{
+	background-color: #A9A9A9;
+}
+#footer{
+	background-color: #A9A9A9;
+	padding: 3px;
+	font-style: italic;
+	font-size: 12px;
+	text-align: center;
+}
+
+.container{
+	padding: 20px;
+	padding-left: 100px;
+	padding-right: : 100px;
+}
+body{
+	background-color: #DCDCDC;
+}
+.image{
+
+	padding: 10px;
+	float: right;
+	border-top-left-radius: 25px;
+	border-bottom-right-radius: 25px;
+}
